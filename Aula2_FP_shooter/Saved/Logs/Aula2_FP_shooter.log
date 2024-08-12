@@ -6455,3 +6455,157 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.08.12-15.32.01:049][724]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 8.10 sec)
 [2024.08.12-15.32.01:049][724]AssetCheck: New page: Asset Save: player-1
 [2024.08.12-15.32.01:049][724]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/Materials/player-1.player-1
+[2024.08.12-15.35.13:246][693]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.12-15.35.13:360][693]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/player-1
+[2024.08.12-15.35.13:361][693]LogSavePackage: Moving '../../../../../../Users/ra00340661/Desktop/Aula2-FPShooter/Aula2_FP_shooter/Saved/player-1D008EDB9468AB1E797707BB58E5E392A.tmp' to '../../../../../../Users/ra00340661/Desktop/Aula2-FPShooter/Aula2_FP_shooter/Content/StarterContent/Materials/player-1.uasset'
+[2024.08.12-15.35.13:367][693]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 8.22 sec)
+[2024.08.12-15.35.13:368][693]AssetCheck: New page: Asset Save: player-1
+[2024.08.12-15.35.13:368][693]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/Materials/player-1.player-1
+[2024.08.12-15.35.15:311][923]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.12-15.35.15:364][923]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/player-1
+[2024.08.12-15.35.15:364][923]LogSavePackage: Moving '../../../../../../Users/ra00340661/Desktop/Aula2-FPShooter/Aula2_FP_shooter/Saved/player-1C6EE458F4DDB1621C95A58A95025A11E.tmp' to '../../../../../../Users/ra00340661/Desktop/Aula2-FPShooter/Aula2_FP_shooter/Content/StarterContent/Materials/player-1.uasset'
+[2024.08.12-15.35.15:370][923]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 8.28 sec)
+[2024.08.12-15.35.15:371][923]AssetCheck: New page: Asset Save: player-1
+[2024.08.12-15.35.15:371][923]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/Materials/player-1.player-1
+[2024.08.12-15.35.15:681][953]BlueprintLog: New page: Compile player-1
+[2024.08.12-15.35.15:716][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.08.12-15.35.22:513][742]LogViewport: Scene viewport resized to 337x282, mode Windowed.
+[2024.08.12-15.35.24:437][772]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.12-15.35.24:442][772]LogContentBundle: [Aula2(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.08.12-15.35.24:442][772]LogWorldPartition: Display: GenerateStreaming for 'Aula2' started...
+[2024.08.12-15.35.24:525][772]LogWorldPartition: Display: GenerateStreaming for 'Aula2' took 83 ms (total: 2.41 sec)
+[2024.08.12-15.35.24:526][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.12-15.35.24:526][772]PIE: New page: PIE session: Aula2 (12 de ago de 2024 09:35:24)
+[2024.08.12-15.35.24:561][772]LogPlayLevel: Display: Creating online subsystem for client :Context_36
+[2024.08.12-15.35.24:563][772]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2024.08.12-15.35.24:589][773]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Aula2
+[2024.08.12-15.35.24:598][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009077s)
+[2024.08.12-15.35.24:598][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Aula2.Aula2 to /Game/UEDPIE_0_Aula2.Aula2 (0.009113s)
+[2024.08.12-15.35.24:606][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.08.12-15.35.24:609][773]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.12-15.35.24:609][773]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.12-15.35.24:609][773]LogAIModule: Creating AISystem for world Aula2
+[2024.08.12-15.35.24:610][773]LogWorldPartition: ULevel::OnLevelLoaded(Aula2)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.08.12-15.35.24:610][773]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.08.12-15.35.24:610][773]LogWorldPartition: UWorldPartition::Initialize : World = Aula2, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.08.12-15.35.24:610][773]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.08.12-15.35.24:612][773]LogContentBundle: [Aula2(Standalone)] Creating new contrainer.
+[2024.08.12-15.35.24:612][773]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 385 ms)
+[2024.08.12-15.35.24:612][773]LogPlayLevel: PIE: World Init took: (0.002986s)
+[2024.08.12-15.35.24:612][773]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2024.08.12-15.35.24:612][773]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.12-15.35.24:612][773]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.12-15.35.24:612][773]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.12-15.35.24:612][773]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.12-15.35.24:612][773]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.12-15.35.24:612][773]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.12-15.35.24:612][773]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.12-15.35.24:612][773]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.12-15.35.24:612][773]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.12-15.35.24:612][773]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.12-15.35.24:612][773]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.12-15.35.24:614][773]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.12-15.35.24:641][773]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek(R) Audio)
+[2024.08.12-15.35.24:642][773]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.12-15.35.24:642][773]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.12-15.35.24:642][773]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.12-15.35.24:643][773]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2024.08.12-15.35.24:643][773]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2024.08.12-15.35.24:644][773]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2024.08.12-15.35.24:644][773]LogInit: FAudioDevice initialized with ID 32.
+[2024.08.12-15.35.24:644][773]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2024.08.12-15.35.24:644][773]LogAudio: Display: Audio Device (ID: 32) registered with world 'Aula2'.
+[2024.08.12-15.35.24:644][773]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2024.08.12-15.35.24:647][773]LogLoad: Game class is 'GameModeBase'
+[2024.08.12-15.35.24:648][773]LogWorld: Bringing World /Game/UEDPIE_0_Aula2.Aula2 up for play (max tick rate 0) at 2024.08.12-12.35.24
+[2024.08.12-15.35.24:648][773]LogWorld: Bringing up level for play took: 0.001472
+[2024.08.12-15.35.24:649][773]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.08.12-15.35.24:649][773]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-200.000 Y=0.000 Z=92.000,P=0.000000 Y=180.000000 R=-0.000000
+[2024.08.12-15.35.24:656][773]LogStreaming: Display: FlushAsyncLoading(): 58 QueuedPackages, 0 AsyncPackages
+[2024.08.12-15.35.24:848][773]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(1), CellsToLoad(0), CellsToUnload(9)
+[2024.08.12-15.35.24:848][773]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=23680.000 Y=9330.000 Z=120.000,P=0.000000 Y=0.000000 R=-0.000000
+[2024.08.12-15.35.24:860][773]PIE: Server logged in
+[2024.08.12-15.35.24:860][773]PIE: Play in editor total start time 0,419 seconds.
+[2024.08.12-15.35.28:449][833]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.28:507][834]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.28:564][835]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.28:626][836]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.28:683][837]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.28:742][838]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.28:799][839]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.28:856][840]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.28:914][841]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.28:970][842]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.29:030][843]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.29:086][844]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.29:145][845]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.29:203][846]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.29:260][847]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.29:321][848]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.29:377][849]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.29:434][850]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.29:494][851]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.30:046][860]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.30:100][861]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.30:155][862]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.30:211][863]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.30:266][864]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.30:321][865]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.30:385][866]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.30:446][867]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.30:506][868]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.30:567][869]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.30:622][870]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.30:853][874]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=-1.000 Y=-1.000
+[2024.08.12-15.35.30:910][875]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=-1.000 Y=-1.000
+[2024.08.12-15.35.30:969][876]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=-1.000 Y=-1.000
+[2024.08.12-15.35.31:025][877]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=-1.000 Y=-1.000
+[2024.08.12-15.35.31:082][878]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=-1.000 Y=-1.000
+[2024.08.12-15.35.31:251][881]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.31:307][882]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.31:361][883]LogBlueprintUserMessages: [player-1_C_UAID_5C60BAB12A0EC21102_1383123591] X=1.000 Y=1.000
+[2024.08.12-15.35.34:992][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.12-15.35.34:993][949]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Aula2
+[2024.08.12-15.35.34:999][949]LogWorld: UWorld::CleanupWorld for Aula2, bSessionEnded=true, bCleanupResources=true
+[2024.08.12-15.35.34:999][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.12-15.35.34:999][949]LogContentBundle: [Aula2(Standalone)] Deleting container.
+[2024.08.12-15.35.35:076][949]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.12-15.35.35:080][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.12-15.35.35:094][949]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.12-15.35.35:096][949]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2024.08.12-15.35.35:096][949]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2024.08.12-15.35.35:098][949]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2024.08.12-15.35.35:102][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.12-15.35.35:116][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.08.12-15.35.35:204][950]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.08.12-15.35.35:511][950]LogViewport: Scene viewport resized to 337x282, mode Windowed.
+[2024.08.12-15.36.09:080][853]LogDerivedDataCache: C:/Users/ra00340661/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.058 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2905 files in 3834 folders with total size 119 MiB.
+[2024.08.12-15.36.11:089][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.12-15.36.11:246][ 94]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/player-1
+[2024.08.12-15.36.11:247][ 94]LogSavePackage: Moving '../../../../../../Users/ra00340661/Desktop/Aula2-FPShooter/Aula2_FP_shooter/Saved/player-1A754D4C54178C78B125E1990CFF0BD68.tmp' to '../../../../../../Users/ra00340661/Desktop/Aula2-FPShooter/Aula2_FP_shooter/Content/StarterContent/Materials/player-1.uasset'
+[2024.08.12-15.36.11:253][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 8.44 sec)
+[2024.08.12-15.36.11:255][ 94]AssetCheck: New page: Asset Save: player-1
+[2024.08.12-15.36.11:255][ 94]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/Materials/player-1.player-1
+[2024.08.12-15.36.13:188][326]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.12-15.36.13:251][326]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/player-1
+[2024.08.12-15.36.13:251][326]LogSavePackage: Moving '../../../../../../Users/ra00340661/Desktop/Aula2-FPShooter/Aula2_FP_shooter/Saved/player-1F476B9644E0DEA16304A6BBA25E031A7.tmp' to '../../../../../../Users/ra00340661/Desktop/Aula2-FPShooter/Aula2_FP_shooter/Content/StarterContent/Materials/player-1.uasset'
+[2024.08.12-15.36.13:257][326]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 8.51 sec)
+[2024.08.12-15.36.13:258][326]AssetCheck: New page: Asset Save: player-1
+[2024.08.12-15.36.13:258][326]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/Materials/player-1.player-1
+[2024.08.12-15.36.13:423][346]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.12-15.36.13:467][346]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/player-1
+[2024.08.12-15.36.13:468][346]LogSavePackage: Moving '../../../../../../Users/ra00340661/Desktop/Aula2-FPShooter/Aula2_FP_shooter/Saved/player-144795FD24F1BA892F87EEA96CD6B5BAF.tmp' to '../../../../../../Users/ra00340661/Desktop/Aula2-FPShooter/Aula2_FP_shooter/Content/StarterContent/Materials/player-1.uasset'
+[2024.08.12-15.36.13:474][346]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 8.56 sec)
+[2024.08.12-15.36.13:475][346]AssetCheck: New page: Asset Save: player-1
+[2024.08.12-15.36.13:475][346]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/Materials/player-1.player-1
+[2024.08.12-15.36.13:574][358]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.12-15.36.13:636][358]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/player-1
+[2024.08.12-15.36.13:636][358]LogSavePackage: Moving '../../../../../../Users/ra00340661/Desktop/Aula2-FPShooter/Aula2_FP_shooter/Saved/player-15F5C3BBD404C8AD996F923864F369913.tmp' to '../../../../../../Users/ra00340661/Desktop/Aula2-FPShooter/Aula2_FP_shooter/Content/StarterContent/Materials/player-1.uasset'
+[2024.08.12-15.36.13:642][358]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 8.63 sec)
+[2024.08.12-15.36.13:643][358]AssetCheck: New page: Asset Save: player-1
+[2024.08.12-15.36.13:643][358]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/Materials/player-1.player-1
+[2024.08.12-15.36.39:542][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.08.12-15.36.39:547][490]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Aula2/0/V0/NGQJCM8WYBU6W8HE7TJ3KR_Auto3
+[2024.08.12-15.36.39:547][490]LogSavePackage: Moving '../../../../../../Users/ra00340661/Desktop/Aula2-FPShooter/Aula2_FP_shooter/Saved/NGQJCM8WYBU6W8HE7TJ3KR_Auto37D2C4FC747EAE047CF76C9B15931E946.tmp' to '../../../../../../Users/ra00340661/Desktop/Aula2-FPShooter/Aula2_FP_shooter/Saved/Autosaves/Game/__ExternalActors__/Aula2/0/V0/NGQJCM8WYBU6W8HE7TJ3KR_Auto3.uasset'
+[2024.08.12-15.36.39:548][490]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Aula2' took 0.019
+[2024.08.12-15.36.39:548][490]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019
